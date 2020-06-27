@@ -1,0 +1,692 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "TabStates": {},
+  "ObjectStates": [
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -2.93445849,
+        "posY": 1.58815277,
+        "posZ": -0.247534722,
+        "rotX": 7.05421E-06,
+        "rotY": 180.0,
+        "rotZ": -2.73203852E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        900,
+        300,
+        400,
+        300,
+        500,
+        800
+      ],
+      "CustomDeck": {
+        "10": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/Attack.png",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "9": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/tts%20assets/Precise%20Strike.png",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "3": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/tts%20assets/Blood%20Rights.png",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "4": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/tts%20assets/I%20Smell%20Blood.png",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "5": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/tts%20assets/One%20Hundred%20Paper%20Cuts.png",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "8": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/tts%20assets/I%20Have%20No%20Weakness.png",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -2.93445277,
+            "posY": 1.52784765,
+            "posZ": -0.24753578,
+            "rotX": 0.0002594982,
+            "rotY": 180.0,
+            "rotZ": 0.000892654,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 1000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "10": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/Attack.png",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "d33b07"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -2.72024274,
+            "posY": 1.5694524,
+            "posZ": -0.44469443,
+            "rotX": 0.0005489601,
+            "rotY": 180.0,
+            "rotZ": -0.000346791552,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 1000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "10": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/Attack.png",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "423d1b"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -2.6151135,
+            "posY": 1.60346973,
+            "posZ": -0.618626535,
+            "rotX": 0.000324337,
+            "rotY": 180.0,
+            "rotZ": -3.28963361E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 1000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "10": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/Attack.png",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "841d6c"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -3.27671432,
+            "posY": 1.61311722,
+            "posZ": -0.164015368,
+            "rotX": 0.000472819229,
+            "rotY": 180.000015,
+            "rotZ": 0.000285852235,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 1000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "10": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/Attack.png",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "7922e0"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -3.366658,
+            "posY": 1.62270415,
+            "posZ": 0.2751619,
+            "rotX": -0.0012524327,
+            "rotY": 180.0,
+            "rotZ": -0.000474226719,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 1000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "10": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/Attack.png",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "c9cdf2"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -2.79509044,
+            "posY": 1.63233113,
+            "posZ": -0.8843931,
+            "rotX": 0.00107191491,
+            "rotY": 180.0,
+            "rotZ": 0.000120364421,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "9": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/tts%20assets/Precise%20Strike.png",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "92186d"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -3.3765502,
+            "posY": 1.64200783,
+            "posZ": 0.06349122,
+            "rotX": 0.000263300026,
+            "rotY": 180.0,
+            "rotZ": 0.000204081458,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "3": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/tts%20assets/Blood%20Rights.png",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "045a39"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -2.546764,
+            "posY": 1.65160537,
+            "posZ": -0.7118292,
+            "rotX": 0.00146145618,
+            "rotY": 180.000015,
+            "rotZ": 0.0009281596,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "4": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/tts%20assets/I%20Smell%20Blood.png",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "0b51bd"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -1.77398229,
+            "posY": 1.64576924,
+            "posZ": -1.10117817,
+            "rotX": 0.03928153,
+            "rotY": 179.999908,
+            "rotZ": 0.014463976,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "3": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/tts%20assets/Blood%20Rights.png",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "a366d3"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -2.153182,
+            "posY": 1.68656349,
+            "posZ": -1.43906307,
+            "rotX": 0.0425521135,
+            "rotY": 180.000015,
+            "rotZ": 0.0182826165,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/tts%20assets/One%20Hundred%20Paper%20Cuts.png",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "feb502"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -3.029401,
+            "posY": 1.68049157,
+            "posZ": -0.8090621,
+            "rotX": -0.000170150437,
+            "rotY": 180.0,
+            "rotZ": 0.0005110164,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "8": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/tts%20assets/I%20Have%20No%20Weakness.png",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/blademaster/blademaster-back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "43d5a4"
+        }
+      ],
+      "GUID": "2ccc49"
+    }
+  ],
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "VersionNumber": ""
+}
