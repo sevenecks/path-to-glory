@@ -1,0 +1,72 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "TabStates": {},
+  "ObjectStates": [
+    {
+      "Name": "CardCustom",
+      "Transform": {
+        "posX": -0.231945157,
+        "posY": 0.973597467,
+        "posZ": -9.090955,
+        "rotX": -1.25876863E-06,
+        "rotY": 179.999985,
+        "rotZ": -2.61971472E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": true,
+      "CardID": 700,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/Tier%201/Bogling%20Juvenile.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "GUID": "913148"
+    }
+  ],
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "VersionNumber": ""
+}
