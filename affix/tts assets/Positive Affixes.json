@@ -1,0 +1,493 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "TabStates": {},
+  "ObjectStates": [
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -1.39294517,
+        "posY": 1.01462877,
+        "posZ": -4.38623142,
+        "rotX": 1.358876E-06,
+        "rotY": 180.0,
+        "rotZ": -2.500835E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        9000,
+        8900,
+        8800,
+        8700,
+        8600,
+        8500,
+        8400
+      ],
+      "CustomDeck": {
+        "90": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/positive/Well%20Nourished.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "89": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/positive/Opportunistic.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "88": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/positive/Lich_s%20Blessing.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "87": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/positive/Instilled%20Energy.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "86": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/positive/Bloodthirsty.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "85": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/positive/Battle%20Hardened.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "84": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/positive/Ancestral%20Protection.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -1.39294553,
+            "posY": 0.9735775,
+            "posZ": -4.38623142,
+            "rotX": 0.000277275365,
+            "rotY": 180.0,
+            "rotZ": -0.000974293856,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "90": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/positive/Well%20Nourished.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "b7c132"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -1.038519,
+            "posY": 1.01643622,
+            "posZ": -4.25194645,
+            "rotX": 0.00376563636,
+            "rotY": 180.0,
+            "rotZ": -0.002376264,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "89": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/positive/Opportunistic.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "a7ce64"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -1.12839508,
+            "posY": 1.05041218,
+            "posZ": -3.977282,
+            "rotX": 0.000471641775,
+            "rotY": 180.0,
+            "rotZ": -0.000441166165,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "88": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/positive/Lich_s%20Blessing.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "2c16b2"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -1.24090576,
+            "posY": 1.06008208,
+            "posZ": -4.393858,
+            "rotX": -0.000147733692,
+            "rotY": 180.0,
+            "rotZ": -0.0003913942,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "87": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/positive/Instilled%20Energy.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "067ec6"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -1.56935275,
+            "posY": 1.06968951,
+            "posZ": -4.41432,
+            "rotX": -0.0007563003,
+            "rotY": 180.0,
+            "rotZ": -0.0002924359,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "86": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/positive/Bloodthirsty.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "3f9349"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -1.36945224,
+            "posY": 1.07931936,
+            "posZ": -4.098002,
+            "rotX": 0.0006760878,
+            "rotY": 180.0,
+            "rotZ": -0.0005632342,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "85": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/positive/Battle%20Hardened.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "56f218"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -1.52315056,
+            "posY": 1.08894587,
+            "posZ": -4.4908123,
+            "rotX": -0.000686933,
+            "rotY": 180.0,
+            "rotZ": -0.0002537131,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "84": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/positive/Ancestral%20Protection.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "875f4b"
+        }
+      ],
+      "GUID": "c8cb55"
+    }
+  ],
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "VersionNumber": ""
+}
