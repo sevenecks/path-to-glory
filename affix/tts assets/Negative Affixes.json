@@ -1,0 +1,920 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "TabStates": {},
+  "ObjectStates": [
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -0.9091079,
+        "posY": 1.04832709,
+        "posZ": 3.17152286,
+        "rotX": -3.33637672E-07,
+        "rotY": 179.999908,
+        "rotZ": -1.16523935E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        8300,
+        8200,
+        8100,
+        8000,
+        7900,
+        7800,
+        7700,
+        7600,
+        7500,
+        7400,
+        7300,
+        7200,
+        7100,
+        7000
+      ],
+      "CustomDeck": {
+        "83": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Wrath%20of%20Fire.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "82": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Undying.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "81": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Strength%20in%20Numbers.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "80": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Relentless.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "79": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Regenerative.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "78": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Rampant%20Growth.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "77": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Iron%20Carapace.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "76": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Impending%20Doom.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "75": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Haste.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "74": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Focused%20Rage.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "73": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Curse%20of%20Ignorance.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "72": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Curse%20of%20Apathy.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "71": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Cornered.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "70": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Avenge%20the%20Fallen.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.9720256,
+            "posY": 0.973597169,
+            "posZ": -3.58926225,
+            "rotX": 0.000101683276,
+            "rotY": 179.999924,
+            "rotZ": -0.000290274766,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "83": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Wrath%20of%20Fire.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "9cb28c"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -1.02989006,
+            "posY": 1.01644349,
+            "posZ": -3.4358182,
+            "rotX": -0.003012602,
+            "rotY": 179.999924,
+            "rotZ": -0.00415822025,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "82": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Undying.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "b11420"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.999502063,
+            "posY": 1.05042577,
+            "posZ": -3.64346957,
+            "rotX": -0.000946142653,
+            "rotY": 179.999924,
+            "rotZ": -0.0002515689,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "81": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Strength%20in%20Numbers.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "ece58a"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.9494094,
+            "posY": 1.06005907,
+            "posZ": -3.4897573,
+            "rotX": 0.0009926324,
+            "rotY": 179.999924,
+            "rotZ": -0.0006847522,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "80": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Relentless.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "be85ee"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.8966808,
+            "posY": 1.06969225,
+            "posZ": -3.41784358,
+            "rotX": 0.000780397037,
+            "rotY": 179.999924,
+            "rotZ": -0.0005693238,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "79": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Regenerative.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "915ec2"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.8042043,
+            "posY": 1.079314,
+            "posZ": -3.05418754,
+            "rotX": 0.0004156643,
+            "rotY": 179.999924,
+            "rotZ": -0.000492285646,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "78": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Rampant%20Growth.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "132802"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -1.39601946,
+            "posY": 1.088953,
+            "posZ": -3.462849,
+            "rotX": 0.000539414,
+            "rotY": 179.999924,
+            "rotZ": -0.000345110777,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "77": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Iron%20Carapace.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "9df4e7"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -1.12284255,
+            "posY": 1.09857881,
+            "posZ": -3.48996615,
+            "rotX": 0.000759372837,
+            "rotY": 179.999924,
+            "rotZ": -0.00026885944,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "76": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Impending%20Doom.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "1ee399"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.6357667,
+            "posY": 1.1082139,
+            "posZ": -3.34078336,
+            "rotX": 0.0004575635,
+            "rotY": 179.999924,
+            "rotZ": -0.000339599181,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "75": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Haste.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "098491"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.991578937,
+            "posY": 1.11783564,
+            "posZ": -3.40182853,
+            "rotX": 0.0007516002,
+            "rotY": 179.999924,
+            "rotZ": -0.000190355582,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "74": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Focused%20Rage.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "22aec2"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.9402102,
+            "posY": 1.12746358,
+            "posZ": -3.34881616,
+            "rotX": 0.0006281125,
+            "rotY": 179.999924,
+            "rotZ": -0.000492233259,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "73": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Curse%20of%20Ignorance.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "9b18a2"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.7902097,
+            "posY": 1.13709629,
+            "posZ": -3.27818942,
+            "rotX": 0.000454155437,
+            "rotY": 179.999924,
+            "rotZ": -0.000372639974,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "72": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Curse%20of%20Apathy.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "3bc3f1"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.6571491,
+            "posY": 1.1467222,
+            "posZ": -3.57738566,
+            "rotX": 0.0007022438,
+            "rotY": 179.999924,
+            "rotZ": -0.0004020504,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "71": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Cornered.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "00309f"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.701072037,
+            "posY": 1.15635419,
+            "posZ": -3.39655256,
+            "rotX": 0.000467409031,
+            "rotY": 179.999924,
+            "rotZ": -0.000329836359,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "70": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/affix/raw/negative/Avenge%20the%20Fallen.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/enemies/raw/enemy_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "c38985"
+        }
+      ],
+      "GUID": "baf75d"
+    }
+  ],
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "VersionNumber": ""
+}

@@ -1,0 +1,692 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "TabStates": {},
+  "ObjectStates": [
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 2.28344512,
+        "posY": 1.033885,
+        "posZ": 0.543983638,
+        "rotX": 1.343346E-06,
+        "rotY": 179.999863,
+        "rotZ": 1.045706E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        10600,
+        10600,
+        10600,
+        10600,
+        10600,
+        9200,
+        9200,
+        9100,
+        9800,
+        10000,
+        9700
+      ],
+      "CustomDeck": {
+        "106": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Wrench.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "92": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Auto%20Turret.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "91": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Armor%20Dispensing%20Turret.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "98": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Repair.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "100": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Shredding%20Spikes.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "97": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Recycle.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 2.28344417,
+            "posY": 0.973657,
+            "posZ": 0.5439831,
+            "rotX": 0.0005907679,
+            "rotY": 179.999863,
+            "rotZ": 0.0010424162,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "106": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Wrench.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "df3f9a"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 2.28329968,
+            "posY": 0.9993685,
+            "posZ": 0.5439873,
+            "rotX": 0.0253890269,
+            "rotY": 179.999283,
+            "rotZ": 359.536743,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "106": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Wrench.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "f8c654"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 2.283433,
+            "posY": 1.05187821,
+            "posZ": 0.543971539,
+            "rotX": -0.00170993037,
+            "rotY": 180.0,
+            "rotZ": -0.000396889838,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "106": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Wrench.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "bb2c7a"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 2.283433,
+            "posY": 1.06028569,
+            "posZ": 0.543971539,
+            "rotX": -0.00189044792,
+            "rotY": 180.0,
+            "rotZ": -0.000437295,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "106": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Wrench.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "df3f9a"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 2.283433,
+            "posY": 1.078043,
+            "posZ": 0.543971539,
+            "rotX": -0.00109932816,
+            "rotY": 180.0,
+            "rotZ": -0.000253519276,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "106": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Wrench.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "eefa7a"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 2.2834444,
+            "posY": 1.083596,
+            "posZ": 0.543983638,
+            "rotX": 0.000141107826,
+            "rotY": 180.0,
+            "rotZ": -0.000281406828,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "92": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Auto%20Turret.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "c060cd"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 2.2834444,
+            "posY": 1.10181046,
+            "posZ": 0.543983638,
+            "rotX": -0.000150394524,
+            "rotY": 180.0,
+            "rotZ": 0.000240170251,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "92": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Auto%20Turret.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "46775f"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 2.2834444,
+            "posY": 1.10284328,
+            "posZ": 0.543983638,
+            "rotX": 0.000553427,
+            "rotY": 180.0,
+            "rotZ": -0.000133608992,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "91": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Armor%20Dispensing%20Turret.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "d60938"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 2.2834444,
+            "posY": 1.11247146,
+            "posZ": 0.5439837,
+            "rotX": -0.000453029323,
+            "rotY": 180.0,
+            "rotZ": -0.0003114417,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "98": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Repair.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "b9d867"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 2.28344464,
+            "posY": 1.12208736,
+            "posZ": 0.543983638,
+            "rotX": -0.000133631183,
+            "rotY": 180.0,
+            "rotZ": 0.000213530628,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "100": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Shredding%20Spikes.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "f2be48"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": 2.283445,
+            "posY": 1.13172841,
+            "posZ": 0.5439837,
+            "rotX": -0.000430861925,
+            "rotY": 180.0,
+            "rotZ": -0.000295609672,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "97": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/skills/Recycle.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/machinist/raw/machinist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "4540ed"
+        }
+      ],
+      "GUID": "1c28b0"
+    }
+  ],
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "VersionNumber": ""
+}

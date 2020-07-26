@@ -1,0 +1,683 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "TabStates": {},
+  "ObjectStates": [
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -0.499117732,
+        "posY": 1.033885,
+        "posZ": -1.594928,
+        "rotX": 3.347614E-07,
+        "rotY": 180.0,
+        "rotZ": 2.60255941E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        9900,
+        9900,
+        9900,
+        9900,
+        9900,
+        10100,
+        10100,
+        10300,
+        10300,
+        10500,
+        9500
+      ],
+      "CustomDeck": {
+        "99": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Quickshot.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "101": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Reload.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "103": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Scorching%20Round.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "105": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Take%20Cover.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "95": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Gunner.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.499095976,
+            "posY": 0.973599255,
+            "posZ": -1.5948894,
+            "rotX": 6.68871944E-05,
+            "rotY": 180.0,
+            "rotZ": -0.000206506884,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "99": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Quickshot.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "baf409"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.499095917,
+            "posY": 1.02075911,
+            "posZ": -1.5948894,
+            "rotX": -0.0007417511,
+            "rotY": 180.0,
+            "rotZ": -0.00257400819,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "99": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Quickshot.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "740e52"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.499095917,
+            "posY": 1.04560912,
+            "posZ": -1.5948894,
+            "rotX": 0.000310367934,
+            "rotY": 180.0,
+            "rotZ": -0.00102926639,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "99": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Quickshot.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "baf409"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.499096066,
+            "posY": 1.06605339,
+            "posZ": -1.5948894,
+            "rotX": 0.000249206321,
+            "rotY": 180.0,
+            "rotZ": 0.000143029712,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "99": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Quickshot.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "baf409"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.499096036,
+            "posY": 1.07569122,
+            "posZ": -1.5948894,
+            "rotX": -0.000288670359,
+            "rotY": 180.0,
+            "rotZ": -6.704001E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "99": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Quickshot.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "baf409"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.4990959,
+            "posY": 1.08358634,
+            "posZ": -1.59488928,
+            "rotX": 0.000582621433,
+            "rotY": 180.0,
+            "rotZ": -0.000141244818,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "101": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Reload.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "1af047"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.4990959,
+            "posY": 1.09193993,
+            "posZ": -1.59488928,
+            "rotX": -0.001221573,
+            "rotY": 180.0,
+            "rotZ": -0.0002797877,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "101": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Reload.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "574e10"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.499095738,
+            "posY": 1.09084725,
+            "posZ": -1.59488916,
+            "rotX": 359.7753,
+            "rotY": 179.99968,
+            "rotZ": 0.168536425,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "103": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Scorching%20Round.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "1e4865"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.498699158,
+            "posY": 1.02153563,
+            "posZ": -1.59493732,
+            "rotX": -8.930262E-05,
+            "rotY": 179.999466,
+            "rotZ": 2.17479753,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "103": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Scorching%20Round.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "a13070"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.49911803,
+            "posY": 1.12210119,
+            "posZ": -1.594928,
+            "rotX": 0.000500672264,
+            "rotY": 180.0,
+            "rotZ": -0.000339990045,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "105": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Take%20Cover.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "4b93b0"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -0.499117762,
+            "posY": 1.13173664,
+            "posZ": -1.594928,
+            "rotX": 6.788157E-05,
+            "rotY": 180.0,
+            "rotZ": -0.000225531679,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "95": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/skills/Gunner.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/gunsmith/raw/gunsmith_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "352300"
+        }
+      ],
+      "GUID": "e96305"
+    }
+  ],
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "VersionNumber": ""
+}
