@@ -16,15 +16,15 @@
     {
       "Name": "Custom_Token",
       "Transform": {
-        "posX": 0.5092067,
-        "posY": 5.56,
-        "posZ": -1.699584,
-        "rotX": 0.0,
-        "rotY": 180.0,
-        "rotZ": 0.0,
-        "scaleX": 1.0,
+        "posX": -10.3284092,
+        "posY": 1.06000006,
+        "posZ": -1.01474166,
+        "rotX": -2.70378814E-06,
+        "rotY": 180.0049,
+        "rotZ": -2.36581536E-06,
+        "scaleX": 0.450985253,
         "scaleY": 1.0,
-        "scaleZ": 1.0
+        "scaleZ": 0.450985253
       },
       "Nickname": "",
       "Description": "",
@@ -55,7 +55,7 @@
           "Thickness": 0.2,
           "MergeDistancePixels": 15.0,
           "StandUp": false,
-          "Stackable": false
+          "Stackable": true
         }
       },
       "LuaScript": "",
