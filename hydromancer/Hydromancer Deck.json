@@ -16,12 +16,12 @@
     {
       "Name": "Deck",
       "Transform": {
-        "posX": -3.79419565,
-        "posY": 1.58333886,
-        "posZ": -0.6924629,
-        "rotX": 8.192203E-06,
-        "rotY": 180.028748,
-        "rotZ": -2.20357474E-08,
+        "posX": -18.8099651,
+        "posY": 1.033885,
+        "posZ": -3.98734951,
+        "rotX": -4.432106E-07,
+        "rotY": 180.000122,
+        "rotZ": -8.51480948E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -48,19 +48,20 @@
       "Hands": false,
       "SidewaysCard": false,
       "DeckIDs": [
-        400,
-        400,
-        400,
-        400,
-        600,
-        600,
-        600,
-        200,
-        200,
-        500
+        12200,
+        12200,
+        12200,
+        12200,
+        12200,
+        12300,
+        12300,
+        12300,
+        12400,
+        12400,
+        12500
       ],
       "CustomDeck": {
-        "4": {
+        "122": {
           "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Attack.jpg",
           "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
           "NumWidth": 1,
@@ -69,7 +70,7 @@
           "UniqueBack": false,
           "Type": 0
         },
-        "6": {
+        "123": {
           "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Whip%20Splash.jpg",
           "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
           "NumWidth": 1,
@@ -78,7 +79,7 @@
           "UniqueBack": false,
           "Type": 0
         },
-        "2": {
+        "124": {
           "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Riptide.jpg",
           "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
           "NumWidth": 1,
@@ -87,7 +88,7 @@
           "UniqueBack": false,
           "Type": 0
         },
-        "5": {
+        "125": {
           "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Water%20Afinity.jpg",
           "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
           "NumWidth": 1,
@@ -104,12 +105,12 @@
         {
           "Name": "CardCustom",
           "Transform": {
-            "posX": -3.79419184,
-            "posY": 1.52756262,
-            "posZ": -0.69245857,
-            "rotX": 0.003213392,
-            "rotY": 180.0287,
-            "rotZ": 0.0111049116,
+            "posX": -18.8099651,
+            "posY": 0.973535955,
+            "posZ": -3.98734951,
+            "rotX": 0.0008174383,
+            "rotY": 180.000122,
+            "rotZ": -0.00254499959,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -134,10 +135,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 400,
+          "CardID": 12200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4": {
+            "122": {
               "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Attack.jpg",
               "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
               "NumWidth": 1,
@@ -155,12 +156,12 @@
         {
           "Name": "CardCustom",
           "Transform": {
-            "posX": -4.20331144,
-            "posY": 1.562022,
-            "posZ": -0.5186112,
-            "rotX": 359.977722,
-            "rotY": 180.028717,
-            "rotZ": 359.9893,
+            "posX": -18.5648556,
+            "posY": 1.1520108,
+            "posZ": -3.415405,
+            "rotX": 0.0291922446,
+            "rotY": 179.999176,
+            "rotZ": 0.00673346827,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -185,10 +186,61 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 400,
+          "CardID": 12200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4": {
+            "122": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Attack.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "82291b"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -19.2869434,
+            "posY": 1.02247941,
+            "posZ": -3.12390852,
+            "rotX": -0.0037836188,
+            "rotY": 180.000137,
+            "rotZ": 359.9871,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 12200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "122": {
               "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Attack.jpg",
               "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
               "NumWidth": 1,
@@ -206,12 +258,12 @@
         {
           "Name": "CardCustom",
           "Transform": {
-            "posX": -3.57645941,
-            "posY": 1.59727991,
-            "posZ": -0.8356639,
-            "rotX": 2.53994422E-05,
-            "rotY": 180.028717,
-            "rotZ": -0.000477614667,
+            "posX": -19.8073826,
+            "posY": 1.04971683,
+            "posZ": -2.25399327,
+            "rotX": 0.0130203282,
+            "rotY": 179.999786,
+            "rotZ": -0.004570325,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -236,10 +288,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 400,
+          "CardID": 12200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4": {
+            "122": {
               "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Attack.jpg",
               "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
               "NumWidth": 1,
@@ -252,17 +304,17 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "GUID": "c9f7ea"
+          "GUID": "e2aadf"
         },
         {
           "Name": "CardCustom",
           "Transform": {
-            "posX": -3.930552,
-            "posY": 1.60692668,
-            "posZ": -0.989304543,
-            "rotX": 0.00362204062,
-            "rotY": 180.028717,
-            "rotZ": 0.0003951754,
+            "posX": -19.6794243,
+            "posY": 1.09996927,
+            "posZ": -3.56257129,
+            "rotX": 0.0293742958,
+            "rotY": 179.999619,
+            "rotZ": -0.0007149962,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -287,10 +339,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 400,
+          "CardID": 12200,
           "SidewaysCard": false,
           "CustomDeck": {
-            "4": {
+            "122": {
               "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Attack.jpg",
               "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
               "NumWidth": 1,
@@ -303,17 +355,17 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "GUID": "c9f7ea"
+          "GUID": "361073"
         },
         {
           "Name": "CardCustom",
           "Transform": {
-            "posX": -2.92450523,
-            "posY": 1.605594,
-            "posZ": -1.7646451,
-            "rotX": 0.04840106,
+            "posX": -17.7878647,
+            "posY": 1.02274334,
+            "posZ": 0.624625444,
+            "rotX": 0.0124525419,
             "rotY": 179.999908,
-            "rotZ": 0.0523123331,
+            "rotZ": 0.01130338,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -338,61 +390,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 600,
+          "CardID": 12300,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6": {
-              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Whip%20Splash.jpg",
-              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
-              "NumWidth": 1,
-              "NumHeight": 1,
-              "BackIsHidden": true,
-              "UniqueBack": false,
-              "Type": 0
-            }
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "795e5a"
-        },
-        {
-          "Name": "CardCustom",
-          "Transform": {
-            "posX": -3.50376129,
-            "posY": 1.65656912,
-            "posZ": -1.88573492,
-            "rotX": 0.048400484,
-            "rotY": 180.000458,
-            "rotZ": 0.052315522,
-            "scaleX": 1.0,
-            "scaleY": 1.0,
-            "scaleZ": 1.0
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 600,
-          "SidewaysCard": false,
-          "CustomDeck": {
-            "6": {
+            "123": {
               "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Whip%20Splash.jpg",
               "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
               "NumWidth": 1,
@@ -410,12 +411,12 @@
         {
           "Name": "CardCustom",
           "Transform": {
-            "posX": -2.80778074,
-            "posY": 1.705721,
-            "posZ": -1.945158,
-            "rotX": 0.0225902777,
-            "rotY": 179.999939,
-            "rotZ": 0.128509477,
+            "posX": -18.6325989,
+            "posY": 0.973418355,
+            "posZ": 1.10053921,
+            "rotX": 0.00179782929,
+            "rotY": 179.999924,
+            "rotZ": 359.9934,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -440,10 +441,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 600,
+          "CardID": 12300,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6": {
+            "123": {
               "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Whip%20Splash.jpg",
               "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
               "NumWidth": 1,
@@ -461,12 +462,12 @@
         {
           "Name": "CardCustom",
           "Transform": {
-            "posX": -2.575929,
-            "posY": 1.76063967,
-            "posZ": -1.243582,
-            "rotX": 0.022584971,
-            "rotY": 179.999146,
-            "rotZ": 0.128504291,
+            "posX": -16.6182156,
+            "posY": 1.04953945,
+            "posZ": 1.04749107,
+            "rotX": -0.00423072651,
+            "rotY": 179.999939,
+            "rotZ": 0.0214714743,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -491,11 +492,11 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 200,
+          "CardID": 12300,
           "SidewaysCard": false,
           "CustomDeck": {
-            "2": {
-              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Riptide.jpg",
+            "123": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Whip%20Splash.jpg",
               "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
               "NumWidth": 1,
               "NumHeight": 1,
@@ -507,17 +508,17 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "GUID": "0c16fe"
+          "GUID": "795e5a"
         },
         {
           "Name": "CardCustom",
           "Transform": {
-            "posX": -1.96290994,
-            "posY": 1.81236458,
-            "posZ": -1.63401639,
-            "rotX": 0.0553874373,
-            "rotY": 180.00116,
-            "rotZ": 0.139933184,
+            "posX": -24.5670815,
+            "posY": 0.9736044,
+            "posZ": -4.09002066,
+            "rotX": 3.149714E-06,
+            "rotY": 180.0,
+            "rotZ": -1.32260857E-05,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -542,10 +543,10 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 200,
+          "CardID": 12400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "2": {
+            "124": {
               "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Riptide.jpg",
               "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
               "NumWidth": 1,
@@ -563,12 +564,12 @@
         {
           "Name": "CardCustom",
           "Transform": {
-            "posX": -2.21085787,
-            "posY": 1.83971739,
-            "posZ": -1.80377114,
-            "rotX": 0.07085754,
-            "rotY": 179.998825,
-            "rotZ": 0.13627103,
+            "posX": -24.4390373,
+            "posY": 1.02359235,
+            "posZ": -3.25451732,
+            "rotX": -7.578191E-05,
+            "rotY": 180.0,
+            "rotZ": -2.38851953E-05,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -593,10 +594,61 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 500,
+          "CardID": 12400,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5": {
+            "124": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Riptide.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "0c16fe"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -18.4235935,
+            "posY": 1.12625289,
+            "posZ": -3.79307985,
+            "rotX": 0.0002927875,
+            "rotY": 180.03006,
+            "rotZ": -0.00020085639,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 12500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "125": {
               "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Water%20Afinity.jpg",
               "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/hydromancer_back.png",
               "NumWidth": 1,
@@ -612,7 +664,7 @@
           "GUID": "09be49"
         }
       ],
-      "GUID": "442eb4"
+      "GUID": "29e1e0"
     }
   ],
   "LuaScript": "",

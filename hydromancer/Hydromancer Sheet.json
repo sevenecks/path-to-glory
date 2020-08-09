@@ -16,15 +16,15 @@
     {
       "Name": "CardCustom",
       "Transform": {
-        "posX": 3.434209,
-        "posY": 1.5278728,
-        "posZ": 1.66225767,
-        "rotX": 2.47129356E-06,
-        "rotY": 180.0,
-        "rotZ": -7.80662646E-08,
-        "scaleX": 1.0,
+        "posX": -19.8491611,
+        "posY": 0.9736048,
+        "posZ": -11.2724314,
+        "rotX": -1.12512462E-08,
+        "rotY": 179.999084,
+        "rotZ": -6.157583E-08,
+        "scaleX": 4.04051256,
         "scaleY": 1.0,
-        "scaleZ": 1.0
+        "scaleZ": 4.04051256
       },
       "Nickname": "",
       "Description": "",
@@ -46,10 +46,10 @@
       "GridProjection": false,
       "HideWhenFaceDown": true,
       "Hands": true,
-      "CardID": 300,
+      "CardID": 12100,
       "SidewaysCard": false,
       "CustomDeck": {
-        "3": {
+        "121": {
           "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Hydromancer%20Sheet.jpg",
           "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/hydromancer/raw%20assets/Hydromancer%20Sheet.jpg",
           "NumWidth": 1,
