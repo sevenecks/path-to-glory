@@ -1,0 +1,832 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "TabStates": {},
+  "ObjectStates": [
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -12.0590048,
+        "posY": 1.04351318,
+        "posZ": -0.284564584,
+        "rotX": -9.761435E-06,
+        "rotY": 179.999817,
+        "rotZ": -6.375851E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        100,
+        100,
+        100,
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800,
+        900,
+        1000
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Attack.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "2": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Soul%20Siphon.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "3": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Soul%20Siphon.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "4": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Hellfire%20Armor.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "5": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Hellfire%20Armor.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "6": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Immolate.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "7": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Immolate.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "8": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Demon's%20Prayer.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "9": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Screams%20of%20Torment.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "10": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Hellfire%20Potion.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -12.05899,
+            "posY": 0.973598838,
+            "posZ": -0.284566253,
+            "rotX": -0.000146157312,
+            "rotY": 180.0,
+            "rotZ": -0.000256350642,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Attack.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "73e55b"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -12.0589886,
+            "posY": 1.01736176,
+            "posZ": -0.284566581,
+            "rotX": -0.00182495185,
+            "rotY": 180.0,
+            "rotZ": -0.0003461781,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Attack.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "b273c9"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -12.05899,
+            "posY": 1.05130494,
+            "posZ": -0.2845663,
+            "rotX": -0.000238508976,
+            "rotY": 180.0,
+            "rotZ": -3.77117467E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Attack.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "73e55b"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -12.0589914,
+            "posY": 1.06093168,
+            "posZ": -0.284566015,
+            "rotX": -0.00023197975,
+            "rotY": 180.0,
+            "rotZ": -3.611758E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Attack.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "73e55b"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -12.0589933,
+            "posY": 1.07055032,
+            "posZ": -0.284565538,
+            "rotX": 5.276904E-05,
+            "rotY": 180.0,
+            "rotZ": 0.000124554965,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "2": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Soul%20Siphon.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "45cc7e"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -12.0589952,
+            "posY": 1.08018768,
+            "posZ": -0.284565479,
+            "rotX": 0.000276738545,
+            "rotY": 180.0,
+            "rotZ": -3.73630355E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "3": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Soul%20Siphon.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "45cc7e"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -12.0589952,
+            "posY": 1.089812,
+            "posZ": -0.2845651,
+            "rotX": -0.0002667255,
+            "rotY": 179.999985,
+            "rotZ": -0.000154741123,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "4": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Hellfire%20Armor.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "538e68"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -12.0589972,
+            "posY": 1.09944057,
+            "posZ": -0.284565032,
+            "rotX": 0.000241763235,
+            "rotY": 179.999985,
+            "rotZ": -0.0001836403,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Hellfire%20Armor.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "538e68"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -12.0589991,
+            "posY": 1.1090641,
+            "posZ": -0.284565,
+            "rotX": 4.776655E-05,
+            "rotY": 180.0,
+            "rotZ": 0.000115702911,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "6": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Immolate.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "3b54df"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -12.059,
+            "posY": 1.11869812,
+            "posZ": -0.284565151,
+            "rotX": 0.000240921072,
+            "rotY": 180.0,
+            "rotZ": -0.00014501391,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "7": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Immolate.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "3b54df"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -12.059,
+            "posY": 1.1283282,
+            "posZ": -0.2845649,
+            "rotX": 0.000129337728,
+            "rotY": 179.999939,
+            "rotZ": 0.0001538746,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "8": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Demon's%20Prayer.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "7e2b92"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -12.0590019,
+            "posY": 1.1379621,
+            "posZ": -0.28456524,
+            "rotX": 2.27356E-05,
+            "rotY": 179.999939,
+            "rotZ": 1.11332474E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "9": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Screams%20of%20Torment.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "0bf3c1"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -12.0590038,
+            "posY": 1.14757776,
+            "posZ": -0.2845647,
+            "rotX": 4.39010073E-05,
+            "rotY": 180.0,
+            "rotZ": 0.000105621104,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 1000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "10": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Hellfire%20Potion.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Asmodeus%20the%20Demon%20King/raw%20assets/Asmodeus%20Back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "4b69bc"
+        }
+      ],
+      "GUID": "7cd918"
+    }
+  ],
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "VersionNumber": ""
+}
