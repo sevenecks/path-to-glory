@@ -14,17 +14,17 @@
   "TabStates": {},
   "ObjectStates": [
     {
-      "Name": "Custom_Token",
+      "Name": "Custom_Tile",
       "Transform": {
-        "posX": -10.3284092,
-        "posY": 1.06000006,
-        "posZ": -1.01474166,
-        "rotX": -2.70378814E-06,
-        "rotY": 180.0049,
-        "rotZ": -2.36581536E-06,
-        "scaleX": 0.450985253,
+        "posX": -0.2907788,
+        "posY": 0.960000038,
+        "posZ": 0.5128392,
+        "rotX": 4.72967076E-06,
+        "rotY": 180.0,
+        "rotZ": 7.682659E-07,
+        "scaleX": 1.0,
         "scaleY": 1.0,
-        "scaleZ": 0.450985253
+        "scaleZ": 1.0
       },
       "Nickname": "",
       "Description": "",
@@ -47,21 +47,21 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/tokens/raw/Time.png",
-        "ImageSecondaryURL": "",
+        "ImageURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/pyromancer/raw/Pyromancer%20Sheet.png",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/pyromancer/raw/Pyromancer%20Sheet.png",
         "ImageScalar": 1.0,
         "WidthScale": 0.0,
-        "CustomToken": {
+        "CustomTile": {
+          "Type": 0,
           "Thickness": 0.2,
-          "MergeDistancePixels": 15.0,
-          "StandUp": false,
-          "Stackable": true
+          "Stackable": false,
+          "Stretch": true
         }
       },
       "LuaScript": "",
       "LuaScriptState": "",
       "XmlUI": "",
-      "GUID": "de635d"
+      "GUID": "f7d713"
     }
   ],
   "LuaScript": "",
