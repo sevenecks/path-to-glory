@@ -1,0 +1,622 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "TabStates": {},
+  "ObjectStates": [
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -5.18903875,
+        "posY": 1.5833391,
+        "posZ": 4.25051546,
+        "rotX": 1.07252417E-05,
+        "rotY": 179.999832,
+        "rotZ": 1.71872841E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        300,
+        300,
+        300,
+        300,
+        300,
+        600,
+        600,
+        500,
+        500,
+        200
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/raw%20assets/Attack.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/arcanist_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "6": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/raw%20assets/Conjure%20Sword.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/arcanist_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "5": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/raw%20assets/Magic%20Missile.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/arcanist_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "2": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/raw%20assets/Arcane%20Affinity.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/arcanist_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -5.18903828,
+            "posY": 1.52787316,
+            "posZ": 4.250517,
+            "rotX": 6.86716248E-06,
+            "rotY": 179.999832,
+            "rotZ": -1.02770866E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "3": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/raw%20assets/Attack.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/arcanist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "536983"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -5.18903828,
+            "posY": 1.57430851,
+            "posZ": 4.250517,
+            "rotX": -3.471261E-05,
+            "rotY": 179.999832,
+            "rotZ": 0.116709895,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "3": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/raw%20assets/Attack.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/arcanist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "d28ad2"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -5.18903828,
+            "posY": 1.6082201,
+            "posZ": 4.250517,
+            "rotX": 1.45032891E-05,
+            "rotY": 179.999832,
+            "rotZ": 0.116800584,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "3": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/raw%20assets/Attack.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/arcanist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "536983"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -5.18903828,
+            "posY": 1.61784828,
+            "posZ": 4.250517,
+            "rotX": 8.514248E-06,
+            "rotY": 179.999832,
+            "rotZ": 0.11681243,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "3": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/raw%20assets/Attack.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/arcanist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "536983"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -5.18903828,
+            "posY": 1.62747645,
+            "posZ": 4.250517,
+            "rotX": 8.622533E-06,
+            "rotY": 179.999832,
+            "rotZ": 0.116814964,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "3": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/raw%20assets/Attack.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/arcanist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "536983"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -5.22091246,
+            "posY": 1.63444424,
+            "posZ": 3.84540176,
+            "rotX": -0.000195796674,
+            "rotY": 179.999985,
+            "rotZ": 0.000293624471,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "6": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/raw%20assets/Conjure%20Sword.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/arcanist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "bf6330"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -5.344206,
+            "posY": 1.64407682,
+            "posZ": 3.91845274,
+            "rotX": -0.000182410047,
+            "rotY": 179.999985,
+            "rotZ": 0.000228586,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "6": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/raw%20assets/Conjure%20Sword.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/arcanist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "bf6330"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -5.032981,
+            "posY": 1.64542449,
+            "posZ": 3.88832712,
+            "rotX": 0.0008847883,
+            "rotY": 180.0,
+            "rotZ": -0.000214899686,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/raw%20assets/Magic%20Missile.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/arcanist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "7eee4f"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -5.56487942,
+            "posY": 1.65510869,
+            "posZ": 4.247412,
+            "rotX": -0.001094695,
+            "rotY": 180.0,
+            "rotZ": 0.000720415,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/raw%20assets/Magic%20Missile.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/arcanist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "7eee4f"
+        },
+        {
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -5.432263,
+            "posY": 1.67296565,
+            "posZ": 4.138569,
+            "rotX": -0.000197146044,
+            "rotY": 180.0,
+            "rotZ": 0.000164632525,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "2": {
+              "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/raw%20assets/Arcane%20Affinity.jpg",
+              "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/arcanist/arcanist_back.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "845b76"
+        }
+      ],
+      "GUID": "6bd540"
+    }
+  ],
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "VersionNumber": ""
+}
