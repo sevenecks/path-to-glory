@@ -1,0 +1,72 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "TabStates": {},
+  "ObjectStates": [
+    {
+      "Name": "CardCustom",
+      "Transform": {
+        "posX": -16.36191,
+        "posY": 0.9736048,
+        "posZ": 10.7598009,
+        "rotX": -6.203433E-08,
+        "rotY": 180.0,
+        "rotZ": -1.31703473E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": true,
+      "CardID": 13900,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "139": {
+          "FaceURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/bosses/Minerva%20Moonshade/raw/Electrify.jpg",
+          "BackURL": "https://raw.githubusercontent.com/sevenecks/path-to-glory/master/pyromancer/raw/pyromancer_back.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "GUID": "dbeefb"
+    }
+  ],
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "VersionNumber": ""
+}
